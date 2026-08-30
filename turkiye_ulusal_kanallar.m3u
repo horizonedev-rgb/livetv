@@ -19,7 +19,7 @@ https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&c
 #EXTINF:-1 tvg-id="TLC.tr" group-title="Belgesel & Eğlence",9. TLC
 https://dogus-live.daioncdn.net/tlc/tlc.m3u8
 #EXTINF:-1 tvg-id="DMAX.tr" group-title="Belgesel & Eğlence",10. DMAX
-https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
+http://dygvideo.dygdigital.com/live/hls/dmaxdai?m3u8
 #EXTINF:-1 tvg-id="TRTHaber.tr" group-title="Haber",11. TRT HABER
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTBelgesel.tr" group-title="Belgesel",12. TRT BELGESEL
