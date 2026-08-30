@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV" group-title="Ulusal Kanallar",ATV
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
+https://mfe01.cliptv.az/dash/ATV_Turk_HDufk050056_re.ism/playlist.mpd
 
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-name="Kanal D" group-title="Ulusal Kanallar",Kanal D
 https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
