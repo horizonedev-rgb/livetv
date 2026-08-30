@@ -32,13 +32,7 @@ https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv_1080p.m3u8
 #EXTINF:-1 tvg-id="AHaber.tr" group-title="Haber",16. A HABER
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber.m3u8
-#EXTINF:-1 tvg-id="SozcuTV.tr" group-title="Haber",17. SÖZCÜ
-https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/ytbe/sozcutelevizyonu.m3u8
-#EXTINF:-1 tvg-id="KonTV.tr" group-title="Yerel & Haber",18. KON TV
-https://mn-nl.mncdn.com/blutv_kontv2/live.m3u8
-#EXTINF:-1 tvg-id="CartoonNetwork.tr" group-title="Çocuk",19. CARTOON NETWORK
-https://cartoonnetwork.blutv.com/blutv_cartoonnetwork/live.m3u8
-#EXTINF:-1 tvg-id="TRTCocuk.tr" group-title="Çocuk",20. TRT ÇOCUK
+#EXTINF:-1 tvg-id="TRTCocuk.tr" group-title="Çocuk",17. TRT ÇOCUK
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="AlQuranAlKareemTV.sa" group-title="Dini",21. KABE CANLI
-https://edge.taghtia.com/sa/7.m3u8
+#EXTINF:-1 tvg-id="AlQuranAlKareemTV.sa" group-title="Dini",19. KABE CANLI
+https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
