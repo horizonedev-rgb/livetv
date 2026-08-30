@@ -8,9 +8,8 @@ https://tv-trt2.medya.trt.com.tr/master.m3u8
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-name="TRT Belgesel" group-title="Ulusal Kanallar",TRT Belgesel
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
-
 #EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV" group-title="Ulusal Kanallar",ATV
-https://trkvz-live.daioncdn.net/atv/atv.m3u8
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-name="Kanal D" group-title="Ulusal Kanallar",Kanal D
 https://live.duhnet.tv/S2/HLS_LIVE/kanaldnp/playlist.m3u8
 #EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="Show TV" group-title="Ulusal Kanallar",Show TV
