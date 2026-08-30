@@ -11,7 +11,7 @@ https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV" group-title="Ulusal Kanallar",ATV
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-name="Kanal D" group-title="Ulusal Kanallar",Kanal D
-https://demiroren.daioncdn.net/kanald/kanald.m3u8
+https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
 #EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="Show TV" group-title="Ulusal Kanallar",Show TV
 https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
 #EXTINF:-1 tvg-id="StarTV.tr" tvg-name="Star TV" group-title="Ulusal Kanallar",Star TV
