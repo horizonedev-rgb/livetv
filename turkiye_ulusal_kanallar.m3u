@@ -1,16 +1,44 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV" group-title="Ulusal Kanallar",ATV
-https://mfe01.cliptv.az/dash/ATV_Turk_HDufk050056_re.ism/playlist.mpd
-
-#EXTINF:-1 tvg-id="KanalD.tr" tvg-name="Kanal D" group-title="Ulusal Kanallar",Kanal D
-https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
-
-#EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="SHOW TV" group-title="Ulusal Kanallar",SHOW TV
+#EXTINF:-1 tvg-id="ATV.tr" group-title="Ulusal Kanallar",1. ATV
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
+#EXTINF:-1 tvg-id="ShowTV.tr" group-title="Ulusal Kanallar",2. SHOW TV
 https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558
-
-#EXTINF:-1 tvg-id="StarTV.tr" tvg-name="STAR TV" group-title="Ulusal Kanallar",STAR TV
-https://dogus.daioncdn.net/startv/startv_720p.m3u8?app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3&sid=8l4w3lst4co5
-
-#EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV8" group-title="Ulusal Kanallar",TV8
-https://tv8-live.daioncdn.net/tv8/tv8.m3u8
+#EXTINF:-1 tvg-id="StarTV.tr" group-title="Ulusal Kanallar",3. STAR TV
+http://dygvideo.dygdigital.com/live/hls/startv4puhu?m3u8
+#EXTINF:-1 tvg-id="KanalD.tr" group-title="Ulusal Kanallar",4. KANAL D
+https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
+#EXTINF:-1 tvg-id="NOWTV.tr" group-title="Ulusal Kanallar",5. NOW TV
+https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
+#EXTINF:-1 tvg-id="TRT1.tr" group-title="Ulusal Kanallar",6. TRT 1
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="Kanal7.tr" group-title="Ulusal Kanallar",7. KANAL 7
+https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
+#EXTINF:-1 tvg-id="TV8.tr" group-title="Ulusal Kanallar",8. TV 8
+https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8_1080p.m3u8
+#EXTINF:-1 tvg-id="TLC.tr" group-title="Belgesel & Eğlence",9. TLC
+https://dogus-live.daioncdn.net/tlc/tlc.m3u8
+#EXTINF:-1 tvg-id="DMAX.tr" group-title="Belgesel & Eğlence",10. DMAX
+https://dogus-live.daioncdn.net/dmax/dmax.m3u8
+#EXTINF:-1 tvg-id="TRTHaber.tr" group-title="Haber",11. TRT HABER
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRTBelgesel.tr" group-title="Belgesel",12. TRT BELGESEL
+https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRTWorld.tr" group-title="Haber",13. TRT WORLD
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="BeyazTV.tr" group-title="Ulusal Kanallar",14. BEYAZ TV
+https://mn-nl.mncdn.com/blutv_beyaztv2/live.m3u8
+#EXTINF:-1 tvg-id="HaberturkTV.tr" group-title="Haber",15. HABERTÜRK
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv_1080p.m3u8
+#EXTINF:-1 tvg-id="AHaber.tr" group-title="Haber",16. A HABER
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber.m3u8
+#EXTINF:-1 tvg-id="SozcuTV.tr" group-title="Haber",17. SÖZCÜ
+https://szctvdvr.blutv.com/blutv_szctv_dvr/live_720p4350000kbps/index.m3u8
+#EXTINF:-1 tvg-id="KonTV.tr" group-title="Yerel & Haber",18. KON TV
+https://mn-nl.mncdn.com/blutv_kontv2/live.m3u8
+#EXTINF:-1 tvg-id="CartoonNetwork.tr" group-title="Çocuk",19. CARTOON NETWORK
+https://cartoonnetwork.blutv.com/blutv_cartoonnetwork/live.m3u8
+#EXTINF:-1 tvg-id="TRTCocuk.tr" group-title="Çocuk",20. TRT ÇOCUK
+https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="AlQuranAlKareemTV.sa" group-title="Dini",21. KABE CANLI
+https://edge.taghtia.com/sa/7.m3u8
